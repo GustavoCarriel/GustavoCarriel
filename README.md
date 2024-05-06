@@ -1,8 +1,12 @@
 ### Hello! I'm Gusta 👋
 
-E aí, pessoal! Sou o Gustavo Carriel, um entusiasta da programação louco por desvendar novas tecnologias. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, onde mergulho em projetos para tornar a vida das pessoas mais fácil.
+Olá a todos! Meu nome é Gustavo Carriel, e sou um entusiasta da programação apaixonado por desvendar as últimas tecnologias. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou aprimorando minhas habilidades na área, cursando Pós-graduação em Desenvolvimento Fullstack na renomada FIAP. Meu objetivo é utilizar meu conhecimento para criar soluções inovadoras que facilitem a vida das pessoas.
 
-Hey there, folks! I'm Gustavo Carriel, a programming enthusiast crazy about unraveling new technologies. Currently, I'm pursuing Analysis and Systems Development, diving into projects to make people's lives easier.
+Em minha jornada de aprendizado e desenvolvimento, tenho explorado diversas linguagens e tecnologias, mas algumas das que mais me fascinam e que desejo trabalhar mais profundamente incluem: Python, Java e JavaScript
+
+Hello everyone! My name is Gustavo Carriel, and I'm a programming enthusiast passionate about unraveling the latest technologies. I hold a degree in Systems Analysis and Development, and currently, I'm enhancing my skills in the field by pursuing a Fullstack Development postgraduate program at the renowned FIAP. My goal is to utilize my knowledge to create innovative solutions that make people's lives easier.
+
+In my learning and development journey, I've explored various languages and technologies, but some of the ones that fascinate me the most and that I wish to delve deeper into include: Python, Java, and JavaScript.
 
 ##
 
