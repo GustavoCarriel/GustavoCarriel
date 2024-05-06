@@ -16,7 +16,7 @@ Se quiser trocar uma ideia sobre programação, tecnologia ou qualquer assunto, 
 
 If you want to chat about programming, technology, or any topic, I'm here!
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-almeida-carriel-192111236/) [![Social](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gucarriel@hotmail.com)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-carriel-192111236/) [![Social](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gucarriel@hotmail.com)
 
 ##
 
